@@ -43,6 +43,7 @@ Markdown 快速入门：http://wowubuntu.com/markdown/
 ### 说明
 GitHub 允许用户对 Code 内容的每一行添加评论。
 评论页面打开方式：
+点击 Code 页面浅蓝色方框内的更新信息「XXX Updated S07E15_030x_xx.md」中，GitHub ID 后面的部分。
 
 ## Day 5（3月11日）
 3月11日是周六，也是作业提交的日子，一般要求在周六晚课程开始（20:00 之前）提交作业。
