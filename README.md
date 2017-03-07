@@ -17,7 +17,9 @@
 
 #### 说明 
 
-点击右侧「Create New File」，创建一个新的 Code 页面，用 Markdown 格式提交，命名格式：S07E15_日期_学号.md
+点击右侧「Create New File」，创建一个新的 Code 页面，用 Markdown 格式提交。
+
+命名格式：S07E15_日期_学号.md
 
 示例：E07E15_0307_90.md
 
